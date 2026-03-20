@@ -1,4 +1,4 @@
-#BTC Market Maker
+BTC Market Maker
 Windows setup & run guide
 
 Setup
@@ -11,7 +11,7 @@ Setup
 5. Run
    py main.py
 
-##Running tests
+--- Running tests ---
 1. Open Command Prompt and navigate to the project folder (steps 2–3 above)
 2. Install pytest:
 py -m pip install pytest
