@@ -1,19 +1,19 @@
-# BTC Market Maker
-Set-up:
+#BTC Market Maker
+Windows setup & run guide
 
-1. Download and extract
-2. Open command prompt (Win + cmd + Enter)
-3. Type cd "C:\Users[REPLACE WITH ACTUAL PATH TO FOLDER]\btc_market_maker-main\btc_market_maker-main"
-4. Type py -m pip install -r requirements.txt
+Setup
+1. Download and extract the project folder
+2. Open Command Prompt — press Win, type cmd, press Enter
+3. Navigate to the project folder:
+   cd "C:\Users\<your-path>\btc_market_maker"
+4. Install dependencies:
+   py -m pip install -r requirements.txt
+5. Run
+   py main.py
 
-One-command way to run:
-1. Type py main.py
-   
---- To run tests ---
-
-1. Open command prompt (Win + cmd + Enter)
-2. Type cd "C:\Users[REPLACE WITH ACTUAL PATH TO FOLDER]\btc_market_maker-main\btc_market_maker-main"
-3. Type py -m pip install pytest
-
-One-command way to run:
-1. Type py -m pytest
+##Running tests
+1. Open Command Prompt and navigate to the project folder (steps 2–3 above)
+2. Install pytest:
+py -m pip install pytest
+3. Run the test suite:
+py -m pytest
