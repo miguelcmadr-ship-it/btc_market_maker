@@ -1,0 +1,437 @@
+------
+timestamp: 1774023202.7581425
+binance: (70032.3, 0.01303) (70032.31, 3.34948)
+kraken: (70016.2, 0.002385) (70016.3, 0.42726736)
+fair_value: 70024.2775
+quote: {'bid_price': 70019.24, 'ask_price': 70029.24, 'bid_size': 0.4959, 'ask_size': 0.5041}
+status: ACTIVE
+------
+timestamp: 1774023203.2689962
+binance: (70032.3, 0.01303) (70032.31, 3.34948)
+kraken: (70016.2, 0.002385) (70016.3, 0.34796736)
+fair_value: 70024.2775
+quote: {'bid_price': 70019.2, 'ask_price': 70029.2, 'bid_size': 0.4925, 'ask_size': 0.5075}
+status: ACTIVE
+------
+timestamp: 1774023203.7817025
+binance: (70027.66, 0.9759) (70027.67, 3.15453)
+kraken: (70016.7, 0.0793) (70022.5, 0.71405651)
+fair_value: 70023.6325
+quote: {'bid_price': 70018.56, 'ask_price': 70028.56, 'bid_size': 0.4924, 'ask_size': 0.5076}
+status: ACTIVE
+------
+timestamp: 1774023204.2919657
+binance: (70027.66, 0.9759) (70027.67, 3.15453)
+kraken: (70016.3, 0.04499951) (70020.7, 1.04338455)
+fair_value: 70023.0825
+quote: {'bid_price': 70018.01, 'ask_price': 70028.01, 'bid_size': 0.4923, 'ask_size': 0.5077}
+status: ACTIVE
+------
+timestamp: 1774023204.7932053
+binance: (70027.66, 1.3895) (70027.67, 0.64645)
+kraken: (70018.6, 0.04499667) (70023.5, 0.32931)
+fair_value: 70024.35750000001
+quote: {'bid_price': 70019.3, 'ask_price': 70029.3, 'bid_size': 0.4939, 'ask_size': 0.506}
+status: ACTIVE
+------
+timestamp: 1774023205.2945185
+binance: (70027.66, 1.3895) (70027.67, 0.64645)
+kraken: (70016.2, 0.002385) (70016.3, 2.85416221)
+fair_value: 70021.9575
+quote: {'bid_price': 70016.9, 'ask_price': 70026.9, 'bid_size': 0.4939, 'ask_size': 0.5061}
+status: ACTIVE
+------
+timestamp: 1774023205.8078282
+binance: (70027.66, 0.08704) (70027.67, 2.43767)
+kraken: (70016.2, 0.002385) (70016.3, 0.42586155)
+fair_value: 70021.9575
+quote: {'bid_price': 70016.86, 'ask_price': 70026.86, 'bid_size': 0.4905, 'ask_size': 0.5095}
+status: ACTIVE
+------
+timestamp: 1774023206.3133225
+binance: (70027.66, 0.08704) (70027.67, 2.43767)
+kraken: (70016.2, 0.002385) (70016.3, 0.54003459)
+fair_value: 70021.9575
+quote: {'bid_price': 70016.82, 'ask_price': 70026.82, 'bid_size': 0.4862, 'ask_size': 0.5137}
+status: ACTIVE
+------
+timestamp: 1774023206.8266563
+binance: (70022.88, 0.35228) (70022.89, 3.52954)
+kraken: (70016.2, 0.002385) (70016.3, 2.96824463)
+fair_value: 70019.5675
+quote: {'bid_price': 70014.41, 'ask_price': 70024.41, 'bid_size': 0.4847, 'ask_size': 0.5153}
+status: ACTIVE
+------
+timestamp: 1774023207.337964
+binance: (70022.88, 0.35228) (70022.89, 3.52954)
+kraken: (70016.2, 0.002385) (70016.3, 0.52073459)
+fair_value: 70019.5675
+quote: {'bid_price': 70014.4, 'ask_price': 70024.4, 'bid_size': 0.4831, 'ask_size': 0.5169}
+status: ACTIVE
+------
+timestamp: 1774023207.8501441
+binance: (70020.32, 1.85177) (70020.33, 1.09631)
+kraken: (70016.2, 0.002385) (70016.3, 0.58733459)
+fair_value: 70018.2875
+quote: {'bid_price': 70013.12, 'ask_price': 70023.12, 'bid_size': 0.4828, 'ask_size': 0.5172}
+status: ACTIVE
+------
+timestamp: 1774023208.3609526
+binance: (70020.32, 1.85177) (70020.33, 1.09631)
+kraken: (70016.2, 0.002385) (70016.3, 3.79221868)
+fair_value: 70018.2875
+quote: {'bid_price': 70013.11, 'ask_price': 70023.11, 'bid_size': 0.4825, 'ask_size': 0.5175}
+status: ACTIVE
+------
+timestamp: 1774023208.8703012
+binance: (70020.32, 1.99143) (70020.33, 1.84953)
+kraken: (70016.2, 0.002385) (70016.3, 1.37670746)
+fair_value: 70018.2875
+quote: {'bid_price': 70013.11, 'ask_price': 70023.11, 'bid_size': 0.4822, 'ask_size': 0.5178}
+status: ACTIVE
+------
+timestamp: 1774023209.3821332
+binance: (70020.32, 1.99143) (70020.33, 1.84953)
+kraken: (70016.2, 0.002385) (70016.3, 3.80492635)
+fair_value: 70018.2875
+quote: {'bid_price': 70013.11, 'ask_price': 70023.11, 'bid_size': 0.4819, 'ask_size': 0.5181}
+status: ACTIVE
+------
+timestamp: 1774023209.8906841
+binance: (70020.32, 2.06159) (70020.33, 1.32975)
+kraken: (70016.2, 0.002385) (70016.3, 3.69705668)
+fair_value: 70018.2875
+quote: {'bid_price': 70013.1, 'ask_price': 70023.1, 'bid_size': 0.4816, 'ask_size': 0.5184}
+status: ACTIVE
+------
+timestamp: 1774023210.3949213
+binance: (70020.32, 0.32761) (70020.33, 1.52624)
+kraken: (70007.3, 5.1e-05) (70016.3, 3.72852551)
+fair_value: 70016.0625
+quote: {'bid_price': 70010.91, 'ask_price': 70020.91, 'bid_size': 0.4848, 'ask_size': 0.5151}
+status: ACTIVE
+------
+timestamp: 1774023210.9056122
+binance: (70020.32, 0.32761) (70020.33, 1.52624)
+kraken: (70007.3, 5.1e-05) (70016.3, 4.80584542)
+fair_value: 70016.0625
+quote: {'bid_price': 70010.94, 'ask_price': 70020.94, 'bid_size': 0.4881, 'ask_size': 0.5119}
+status: ACTIVE
+------
+timestamp: 1774023211.4148226
+binance: (70020.32, 0.32761) (70020.33, 1.52624)
+kraken: (70007.3, 5.1e-05) (70016.3, 4.80584542)
+fair_value: 70016.0625
+quote: {'bid_price': 70010.98, 'ask_price': 70020.98, 'bid_size': 0.4914, 'ask_size': 0.5086}
+status: ACTIVE
+------
+timestamp: 1774023211.9293811
+binance: (70020.32, 0.32761) (70020.33, 1.52624)
+kraken: (70007.3, 5.1e-05) (70016.3, 4.80584542)
+fair_value: 70016.0625
+quote: {'bid_price': 70011.01, 'ask_price': 70021.01, 'bid_size': 0.4947, 'ask_size': 0.5053}
+status: ACTIVE
+------
+timestamp: 1774023212.437163
+binance: (70020.32, 0.32761) (70020.33, 1.52624)
+kraken: (70007.3, 5.1e-05) (70016.3, 4.80584542)
+fair_value: 70016.0625
+quote: {'bid_price': 70011.04, 'ask_price': 70021.04, 'bid_size': 0.4979, 'ask_size': 0.502}
+status: ACTIVE
+------
+timestamp: 1774023212.947973
+binance: (70020.32, 0.32761) (70020.33, 1.52624)
+kraken: (70004.3, 0.288271) (70016.3, 4.80584542)
+fair_value: 70015.3125
+quote: {'bid_price': 70010.32, 'ask_price': 70020.32, 'bid_size': 0.5012, 'ask_size': 0.4988}
+status: ACTIVE
+------
+timestamp: 1774023213.4595835
+binance: (70020.32, 0.32761) (70020.33, 1.52624)
+kraken: (70004.3, 0.288271) (70016.3, 4.80584542)
+fair_value: 70015.3125
+quote: {'bid_price': 70010.36, 'ask_price': 70020.36, 'bid_size': 0.5045, 'ask_size': 0.4955}
+status: ACTIVE
+------
+timestamp: 1774023213.9723594
+binance: (70020.32, 0.32761) (70020.33, 1.52624)
+kraken: (70004.3, 0.288271) (70016.3, 4.80584542)
+fair_value: 70015.3125
+quote: {'bid_price': 70010.39, 'ask_price': 70020.39, 'bid_size': 0.5078, 'ask_size': 0.4922}
+status: ACTIVE
+------
+timestamp: 1774023214.4848611
+binance: (70020.32, 0.32761) (70020.33, 1.52624)
+kraken: (70004.3, 0.288271) (70016.3, 4.80584542)
+fair_value: 70015.3125
+quote: {'bid_price': 70010.42, 'ask_price': 70020.42, 'bid_size': 0.5111, 'ask_size': 0.4889}
+status: ACTIVE
+------
+timestamp: 1774023214.9961312
+binance: (70020.32, 0.32761) (70020.33, 1.52624)
+kraken: (70004.3, 0.288271) (70016.3, 4.80584542)
+fair_value: 70015.3125
+quote: {'bid_price': 70010.46, 'ask_price': 70020.46, 'bid_size': 0.5143, 'ask_size': 0.4857}
+status: ACTIVE
+quote: None
+status: PAUSED — both feeds disconnected
+quote: None
+status: PAUSED — both feeds disconnected
+quote: None
+status: PAUSED — both feeds disconnected
+quote: None
+status: PAUSED — both feeds disconnected
+quote: None
+status: PAUSED — both feeds disconnected
+quote: None
+status: PAUSED — both feeds disconnected
+quote: None
+status: PAUSED — both feeds disconnected
+quote: None
+status: PAUSED — both feeds disconnected
+quote: None
+status: PAUSED — both feeds disconnected
+quote: None
+status: PAUSED — both feeds disconnected
+quote: None
+status: PAUSED — both feeds disconnected
+quote: None
+status: PAUSED — both feeds disconnected
+quote: None
+status: PAUSED — both feeds disconnected
+quote: None
+status: PAUSED — both feeds disconnected
+quote: None
+status: PAUSED — both feeds disconnected
+quote: None
+status: PAUSED — both feeds disconnected
+quote: None
+status: PAUSED — both feeds disconnected
+quote: None
+status: PAUSED — both feeds disconnected
+quote: None
+status: PAUSED — both feeds disconnected
+quote: None
+status: PAUSED — both feeds disconnected
+quote: None
+status: PAUSED — both feeds disconnected
+quote: None
+status: PAUSED — both feeds disconnected
+quote: None
+status: PAUSED — both feeds disconnected
+quote: None
+status: PAUSED — both feeds disconnected
+quote: None
+status: PAUSED — both feeds disconnected
+quote: None
+status: PAUSED — both feeds disconnected
+------
+timestamp: 1774023239.4530413
+binance: (70031.66, 1.29116) (70031.67, 1.15643)
+kraken: (70016.8, 0.71511435) (70010.8, 0.0803)
+fair_value: 70022.73250000001
+quote: {'bid_price': 70017.92, 'ask_price': 70027.92, 'bid_size': 0.5187, 'ask_size': 0.4813}
+status: ACTIVE
+------
+timestamp: 1774023239.9538405
+binance: (70031.66, 1.29116) (70031.67, 1.15643)
+kraken: (70016.8, 0.00100003) (70010.8, 0.0803)
+fair_value: 70022.73250000001
+quote: {'bid_price': 70017.96, 'ask_price': 70027.96, 'bid_size': 0.5231, 'ask_size': 0.4769}
+status: ACTIVE
+------
+timestamp: 1774023240.4562845
+binance: (70031.66, 0.33229) (70031.67, 1.80124)
+kraken: (70016.8, 0.00100003) (70010.8, 0.0803)
+fair_value: 70022.73250000001
+quote: {'bid_price': 70017.99, 'ask_price': 70027.99, 'bid_size': 0.5256, 'ask_size': 0.4744}
+status: ACTIVE
+------
+timestamp: 1774023240.9611995
+binance: (70031.66, 0.33229) (70031.67, 1.80124)
+kraken: (70016.8, 0.00100003) (70010.8, 0.0803)
+fair_value: 70022.73250000001
+quote: {'bid_price': 70018.01, 'ask_price': 70028.01, 'bid_size': 0.5281, 'ask_size': 0.4719}
+status: ACTIVE
+------
+timestamp: 1774023241.4769552
+binance: (70030.4, 0.28137) (70030.41, 3.11528)
+kraken: (70016.8, 0.00100003) (70010.8, 0.0803)
+fair_value: 70022.10250000001
+quote: {'bid_price': 70017.4, 'ask_price': 70027.4, 'bid_size': 0.5301, 'ask_size': 0.4699}
+status: ACTIVE
+------
+timestamp: 1774023241.9794195
+binance: (70030.4, 0.28137) (70030.41, 3.11528)
+kraken: (70016.8, 1.43317264) (70010.8, 0.0803)
+fair_value: 70022.10250000001
+quote: {'bid_price': 70017.42, 'ask_price': 70027.42, 'bid_size': 0.5321, 'ask_size': 0.4679}
+status: ACTIVE
+------
+timestamp: 1774023242.4821887
+binance: (70030.4, 1.56167) (70030.41, 1.3768)
+kraken: (70016.8, 0.72053284) (70010.8, 0.0803)
+fair_value: 70022.10250000001
+quote: {'bid_price': 70017.47, 'ask_price': 70027.47, 'bid_size': 0.5366, 'ask_size': 0.4634}
+status: ACTIVE
+------
+timestamp: 1774023242.9939382
+binance: (70030.4, 1.56167) (70030.41, 1.3768)
+kraken: (70016.8, 0.72053284) (70010.8, 0.0803)
+fair_value: 70022.10250000001
+quote: {'bid_price': 70017.51, 'ask_price': 70027.51, 'bid_size': 0.5412, 'ask_size': 0.4588}
+status: ACTIVE
+------
+timestamp: 1774023243.5058365
+binance: (70030.4, 0.39298) (70030.41, 1.63721)
+kraken: (70016.8, 0.72053284) (70010.8, 0.0803)
+fair_value: 70022.10250000001
+quote: {'bid_price': 70017.55, 'ask_price': 70027.55, 'bid_size': 0.5443, 'ask_size': 0.4557}
+status: ACTIVE
+------
+timestamp: 1774023244.0212445
+binance: (70030.4, 0.39298) (70030.41, 1.63721)
+kraken: (70016.8, 0.00100003) (70010.8, 0.0803)
+fair_value: 70022.10250000001
+quote: {'bid_price': 70017.58, 'ask_price': 70027.58, 'bid_size': 0.5475, 'ask_size': 0.4525}
+status: ACTIVE
+------
+timestamp: 1774023244.532165
+binance: (70026.71, 0.8573) (70026.72, 1.63869)
+kraken: (70016.8, 0.00100003) (70016.9, 0.01568246)
+fair_value: 70021.7825
+quote: {'bid_price': 70017.31, 'ask_price': 70027.31, 'bid_size': 0.5528, 'ask_size': 0.4472}
+status: ACTIVE
+------
+timestamp: 1774023245.0428765
+binance: (70026.71, 0.8573) (70026.72, 1.63869)
+kraken: (70016.8, 0.00100003) (70016.9, 0.42429246)
+fair_value: 70021.7825
+quote: {'bid_price': 70017.32, 'ask_price': 70027.32, 'bid_size': 0.5541, 'ask_size': 0.4459}
+status: ACTIVE
+------
+timestamp: 1774023245.5540557
+binance: (70026.71, 0.29318) (70026.72, 1.44884)
+kraken: (70016.8, 0.00100003) (70016.9, 0.42429246)
+fair_value: 70021.7825
+quote: {'bid_price': 70017.31, 'ask_price': 70027.31, 'bid_size': 0.5527, 'ask_size': 0.4473}
+status: ACTIVE
+------
+timestamp: 1774023246.0591037
+binance: (70026.71, 0.29318) (70026.72, 1.44884)
+kraken: (70016.8, 0.00100003) (70016.9, 3.33796003)
+fair_value: 70021.7825
+quote: {'bid_price': 70017.29, 'ask_price': 70027.29, 'bid_size': 0.5512, 'ask_size': 0.4488}
+status: ACTIVE
+------
+timestamp: 1774023246.5621994
+binance: (70013.04, 1.50748) (70013.05, 0.40768)
+kraken: (70016.8, 0.00100003) (70016.9, 0.82524469)
+fair_value: 70014.94750000001
+quote: {'bid_price': 70010.42, 'ask_price': 70020.42, 'bid_size': 0.5472, 'ask_size': 0.4528}
+status: ACTIVE
+------
+timestamp: 1774023247.0677094
+binance: (70013.04, 1.50748) (70013.05, 0.40768)
+kraken: (70016.8, 0.00100003) (70016.9, 0.18945798)
+fair_value: 70014.94750000001
+quote: {'bid_price': 70010.38, 'ask_price': 70020.38, 'bid_size': 0.5431, 'ask_size': 0.4569}
+status: ACTIVE
+------
+timestamp: 1774023247.571187
+binance: (70017.51, 3.19307) (70017.52, 0.00094)
+kraken: (70016.8, 0.00100003) (70016.9, 0.06026432)
+fair_value: 70017.1825
+quote: {'bid_price': 70012.66, 'ask_price': 70022.66, 'bid_size': 0.5479, 'ask_size': 0.4521}
+status: ACTIVE
+------
+timestamp: 1774023248.0726655
+binance: (70017.51, 3.19307) (70017.52, 0.00094)
+kraken: (70016.8, 0.00100003) (70016.9, 1.78438681)
+fair_value: 70017.1825
+quote: {'bid_price': 70012.67, 'ask_price': 70022.67, 'bid_size': 0.5489, 'ask_size': 0.451}
+status: ACTIVE
+------
+timestamp: 1774023248.5805864
+binance: (70022.86, 3.25544) (70022.87, 0.44789)
+kraken: (70016.8, 0.00100003) (70016.9, 1.78710495)
+fair_value: 70019.8575
+quote: {'bid_price': 70015.36, 'ask_price': 70025.36, 'bid_size': 0.55, 'ask_size': 0.45}
+status: ACTIVE
+------
+timestamp: 1774023249.0836718
+binance: (70022.86, 3.25544) (70022.87, 0.44789)
+kraken: (70016.8, 0.00100003) (70016.9, 1.78710495)
+fair_value: 70019.8575
+quote: {'bid_price': 70015.37, 'ask_price': 70025.37, 'bid_size': 0.551, 'ask_size': 0.449}
+status: ACTIVE
+------
+timestamp: 1774023249.6001494
+binance: (70022.86, 3.75678) (70022.87, 0.32837)
+kraken: (70016.5, 1.1532923) (70016.6, 0.33279222)
+fair_value: 70019.70749999999
+quote: {'bid_price': 70015.24, 'ask_price': 70025.24, 'bid_size': 0.5532, 'ask_size': 0.4468}
+status: ACTIVE
+------
+timestamp: 1774023250.1119902
+binance: (70022.86, 3.75678) (70022.87, 0.32837)
+kraken: (70016.5, 1.0801923) (70016.6, 0.33279222)
+fair_value: 70019.70749999999
+quote: {'bid_price': 70015.26, 'ask_price': 70025.26, 'bid_size': 0.5554, 'ask_size': 0.4446}
+status: ACTIVE
+------
+timestamp: 1774023250.6226223
+binance: (70022.86, 3.62481) (70022.87, 0.30287)
+kraken: (70016.5, 1.1532923) (70016.6, 0.00076434)
+fair_value: 70019.70749999999
+quote: {'bid_price': 70015.32, 'ask_price': 70025.32, 'bid_size': 0.561, 'ask_size': 0.439}
+status: ACTIVE
+------
+timestamp: 1774023251.1338751
+binance: (70022.86, 3.62481) (70022.87, 0.30287)
+kraken: (70016.5, 5.45195986) (70016.6, 0.00076434)
+fair_value: 70019.70749999999
+quote: {'bid_price': 70015.37, 'ask_price': 70025.37, 'bid_size': 0.5666, 'ask_size': 0.4334}
+status: ACTIVE
+------
+timestamp: 1774023251.6441073
+binance: (70034.57, 3.51247) (70034.58, 0.31926)
+kraken: (70016.5, 5.41726862) (70016.6, 0.00076434)
+fair_value: 70025.5625
+quote: {'bid_price': 70021.28, 'ask_price': 70031.28, 'bid_size': 0.5722, 'ask_size': 0.4278}
+status: ACTIVE
+------
+timestamp: 1774023252.14967
+binance: (70034.57, 3.51247) (70034.58, 0.31926)
+kraken: (70016.5, 1.41888018) (70016.6, 0.00076434)
+fair_value: 70025.5625
+quote: {'bid_price': 70021.34, 'ask_price': 70031.34, 'bid_size': 0.5779, 'ask_size': 0.422}
+status: ACTIVE
+------
+timestamp: 1774023252.6518
+binance: (70032.29, 0.18099) (70032.3, 3.3137)
+kraken: (70016.5, 0.001) (70016.6, 1.05960858)
+fair_value: 70024.4225
+quote: {'bid_price': 70020.18, 'ask_price': 70030.18, 'bid_size': 0.5755, 'ask_size': 0.4244}
+status: ACTIVE
+------
+timestamp: 1774023253.1643546
+binance: (70032.29, 0.18099) (70032.3, 3.3137)
+kraken: (70016.5, 0.001) (70016.6, 1.05960858)
+fair_value: 70024.4225
+quote: {'bid_price': 70020.15, 'ask_price': 70030.15, 'bid_size': 0.5731, 'ask_size': 0.4269}
+status: ACTIVE
+------
+timestamp: 1774023253.6723607
+binance: (70025.02, 0.18068) (70025.03, 2.81588)
+kraken: (70016.5, 0.001) (70016.6, 3.56711634)
+fair_value: 70020.7875
+quote: {'bid_price': 70016.49, 'ask_price': 70026.49, 'bid_size': 0.5707, 'ask_size': 0.4293}
+status: ACTIVE
+------
+timestamp: 1774023254.1762438
+binance: (70025.02, 0.18068) (70025.03, 2.81588)
+kraken: (70009.9, 1.42782634) (69996.5, 0.32931)
+fair_value: 70014.11249999999
+quote: {'bid_price': 70009.8, 'ask_price': 70019.8, 'bid_size': 0.5692, 'ask_size': 0.4308}
+status: ACTIVE
